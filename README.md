@@ -1,7 +1,6 @@
 # counter
 
-accessible from https://aliyazakirova.github.io/counter/ 
-![Screenshot at Aug 04 10-19-15](https://user-images.githubusercontent.com/93845260/182787755-8d62bc34-450b-4bc2-9b9b-aa8c8ed49c5d.png)
+accessible on https://aliyazakirova.github.io/counter/ 
 
 counter project has 3 buttons: increase, reset, decrease and value area.
 As soon as the decrease button is clicked, the value decreases accordingly. Click on increase button increases the value and reset button resets the value back to 0.
